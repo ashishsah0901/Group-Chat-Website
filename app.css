@@ -12,7 +12,7 @@ h1 {
 }
 
 body {
-    background: url('background.jpg') no-repeat center top/cover;
+    background-color: black;
 }
 
 .logo {
